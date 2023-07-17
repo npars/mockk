@@ -19,6 +19,7 @@ apiValidation {
     ignoredProjects += listOf(
         projects.testModules.loggerTests.name,
         projects.testModules.clientTests.name,
+        projects.testModules.hiltTests.name,
         projects.testModules.performanceTests.name,
     )
 }

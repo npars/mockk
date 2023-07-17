@@ -30,6 +30,7 @@ include(
     ":modules:mockk-dsl",
 
     ":test-modules:client-tests",
+    ":test-modules:hilt-tests",
     ":test-modules:performance-tests",
     ":test-modules:logger-tests",
 )
